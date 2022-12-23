@@ -206,6 +206,9 @@ li:hover .span {
   line-height: 21px;
   margin-bottom: 20px;
 }
+.btn-a{
+  text-decoration: none;
+}
 .date-foot {
   display: flex;
   align-items: center;
